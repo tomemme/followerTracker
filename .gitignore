@@ -1,0 +1,16 @@
+# Ignore dynamic data files
+followers.json
+following.json
+unfollowers.py
+special_people.json
+
+# Keep special_people.json in version control (not ignored)
+# Add other common Python/git ignores
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.log
