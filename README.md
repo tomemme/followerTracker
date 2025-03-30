@@ -15,7 +15,7 @@ This Python script monitors your GitHub followers, detects unfollows, and automa
 - GitHub Personal Access Token with user scope
 
 ## Setup
-1. Clone the Repo: git clone https://github.com/tomemme/your_repo_name.git
+1. Clone the Repo: git clone https://github.com/tomemme/followerTracker.git
    Then: cd your_repo_name
 2. Install Dependencies: pip3 install requests
 3. Configure:
