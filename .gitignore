@@ -3,6 +3,7 @@ followers.json
 following.json
 unfollowers.py
 special_people.json
+autoUnfollow.gif
 
 # Keep special_people.json in version control (not ignored)
 # Add other common Python/git ignores
